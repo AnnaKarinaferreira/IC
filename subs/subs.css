@@ -2,6 +2,22 @@
     font-family: "Encode Sans SC", sans-serif;
 }
 
+
 .cabecalho1{
-    background-color: aqua;
+    background-color: #A73121;
+    width: 34%;
+    height: 2vw;
+    padding-left: 65vw;
+    padding-top: 1vw;
+}
+
+.links1{
+    margin-left: 5vw;
+    color: #DAD4B5;
+    text-decoration: none;
+}
+.links2{
+    margin-left: 5vw;
+    color: #DAD4B5;
+    text-decoration: none;
 }

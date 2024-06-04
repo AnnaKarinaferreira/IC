@@ -1,8 +1,35 @@
+.body{
+    background-color: #DAD4B5;
+}
+
 .title1{
     font-family: "Encode Sans SC", sans-serif;
 }
 
 .cabecalho1{
-    background-color: rgb(138, 117, 212);
+    background-color: #A73121;
+    width: 34vw;
+    height: 2vw;
 }
 
+.links1{
+    margin-left: 1vw;
+    color: #DAD4B5;
+}
+.links2{
+    margin-left: 1vw;
+    color: #DAD4B5;
+}
+
+.title1{
+    font-family: "Encode Sans SC", sans-serif;
+    font-size: 6vw;
+    margin-bottom: 1px;
+    margin-top: 10vw;
+}
+.title2{
+    font-family: "Encode Sans SC", sans-serif;
+    font-size: 9vw;
+    margin-top: 1px;
+    color: #A73121;
+}
